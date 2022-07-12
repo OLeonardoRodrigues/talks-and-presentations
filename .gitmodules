@@ -1,0 +1,9 @@
+[submodule "cloud-conference-day-5-2022"]
+	path = cloud-conference-day-5-2022
+	url = git@github.com:OLeonardoRodrigues/cloud-conference-day-5-2022.git
+[submodule "hashitalks-2022"]
+	path = hashitalks-2022
+	url = git@github.com:OLeonardoRodrigues/hashitalks-2022.git
+[submodule "hashitalks-brasil-2021"]
+	path = hashitalks-brasil-2021
+	url = git@github.com:OLeonardoRodrigues/hashitalks-brasil-2021.git
